@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<script>
+```
 const Cesar = {
   fullName: 'Cesar Cottua',
   nickName: 'zSarcoz',
   code: ['HTML', 'CSS', 'JavaScript'],
   tools: ['React', 'Redux', 'Express', 'Node', 'postgreSQL']
 }
-</script>
+```
 Hola 🖐️😉, mi nombre es Franco Miño, soy Backend Developer, me forme como FullStack web developer en Henry.💻🤓
 
 Para mi la comunicación y el trabajo en equipo es esencial para poder crecer como desarrollador. Soy proactivo y metódico, siempre busco nuevos retos y me adapto fácilmente a los cambios, estoy abierto a aprender nuevas tecnologías y lenguajes.
