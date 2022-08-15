@@ -34,7 +34,7 @@ Technical skills:
 
 ![javascript-2752148-2284965](https://user-images.githubusercontent.com/33006361/184570446-47339dd7-3509-491f-8d7b-211e79250054.png)
 
-![react_original_logo_icon_146374](https://user-images.githubusercontent.com/33006361/184570554-261f716f-3713-4bb9-9ee8-2ededc74864f.png)
+![react_original_logo_icon_146374](https://user-images.githubusercontent.com/33006361/184570789-3aa21686-e2f5-4fd2-b30b-2919676e4ff1.png)
 
 ![file_type_css_icon_130661](https://user-images.githubusercontent.com/33006361/184570582-e7e557d1-7b2e-4936-8a4c-d5dd4df0ac74.png)
 
