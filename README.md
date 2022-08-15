@@ -31,6 +31,8 @@ Mis Skills: HTML5, CSS3, JavaScript, React, Node, React-Redux, Express, TypreScr
 Mi objetivo es seguir desarrollándome como Frontend y poder ir aprendiendo nuevos lenguajes, librerías y frameworks en un ambiente laboral activo.
 
 Technical skills:
+
+
 ![react_original_logo_icon_146374](https://user-images.githubusercontent.com/33006361/184571170-15b3f268-5763-4da7-8030-397461ced4b0.png)
 
 
