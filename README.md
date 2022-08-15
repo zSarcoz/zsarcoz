@@ -15,20 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <script>
-const Cesra = {
+const Cesar = {
   fullName: 'Cesar Cottua',
   nickName: 'zSarcoz',
   code: ['HTML', 'CSS', 'JavaScript'],
   tools: ['React', 'Redux', 'Express', 'Node', 'postgreSQL']
 }
 </script>
-Hola 🖐️😉, mi nombre es Cesar, soy Frontend Developer, me forme como FullStack web developer en Henry.💻🤓
+Hola 🖐️😉, mi nombre es Franco Miño, soy Backend Developer, me forme como FullStack web developer en Henry.💻🤓
 
 Para mi la comunicación y el trabajo en equipo es esencial para poder crecer como desarrollador. Soy proactivo y metódico, siempre busco nuevos retos y me adapto fácilmente a los cambios, estoy abierto a aprender nuevas tecnologías y lenguajes.
 
-Mis Skills: HTML5, CSS, JavaScript, React, Node, React-Redux, Express, PostgreSQL, Sequalize Git.
+Mis Skills: HTML5, CSS3, JavaScript, React, Node, React-Redux, Express, TypreScript, Bootstrap, PostgreSQL, Sequalize, MongoDB, Mongoose, Git.
 
-Mi objetivo es seguir desarrollándome como Frontend y poder ir aprendiendo nuevos lenguajes, librerías y frameworks en un ambiente laboral activo.
+Mi objetivo es seguir desarrollándome como Backend y poder ir aprendiendo nuevos lenguajes, librerías y frameworks en un ambiente laboral activo.
 
 Technical skills:
            
