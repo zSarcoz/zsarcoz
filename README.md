@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-```
+```ruby
 const Cesar = {
   fullName: 'Cesar Cottua',
   nickName: 'zSarcoz',
