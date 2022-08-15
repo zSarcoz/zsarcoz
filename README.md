@@ -22,18 +22,19 @@ const Cesar = {
   tools: ['React', 'Redux', 'Express', 'Node', 'postgreSQL']
 }
 ```
-Hola 🖐️😉, mi nombre es Franco Miño, soy Backend Developer, me forme como FullStack web developer en Henry.💻🤓
+Hola 🖐️😉, mi nombre es Cesar Cottua, soy Frontend Developer, me forme como FullStack web developer en Henry.💻🤓
 
 Para mi la comunicación y el trabajo en equipo es esencial para poder crecer como desarrollador. Soy proactivo y metódico, siempre busco nuevos retos y me adapto fácilmente a los cambios, estoy abierto a aprender nuevas tecnologías y lenguajes.
 
-Mis Skills: HTML5, CSS3, JavaScript, React, Node, React-Redux, Express, TypreScript, Bootstrap, PostgreSQL, Sequalize, MongoDB, Mongoose, Git.
+Mis Skills: HTML5, CSS3, JavaScript, React, Node, React-Redux, Express, TypreScript, Bootstrap, PostgreSQL, Sequalize, Git.
 
-Mi objetivo es seguir desarrollándome como Backend y poder ir aprendiendo nuevos lenguajes, librerías y frameworks en un ambiente laboral activo.
+Mi objetivo es seguir desarrollándome como Frontend y poder ir aprendiendo nuevos lenguajes, librerías y frameworks en un ambiente laboral activo.
 
 Technical skills:
-           
+![javascript-2752148-2284965](https://user-images.githubusercontent.com/33006361/184570446-47339dd7-3509-491f-8d7b-211e79250054.png)
 
 📫 ¿Cómo contactarme?
+
 
 ✅ Linkedin: https://www.linkedin.com/in/c%C3%A9sar-cottua-003686236/
 
