@@ -31,12 +31,19 @@ Mis Skills: HTML5, CSS3, JavaScript, React, Node, React-Redux, Express, TypreScr
 Mi objetivo es seguir desarrollándome como Frontend y poder ir aprendiendo nuevos lenguajes, librerías y frameworks en un ambiente laboral activo.
 
 Technical skills:
+
 ![javascript-2752148-2284965](https://user-images.githubusercontent.com/33006361/184570446-47339dd7-3509-491f-8d7b-211e79250054.png)
+
+![react_original_logo_icon_146374](https://user-images.githubusercontent.com/33006361/184570554-261f716f-3713-4bb9-9ee8-2ededc74864f.png)
+
+![file_type_css_icon_130661](https://user-images.githubusercontent.com/33006361/184570582-e7e557d1-7b2e-4936-8a4c-d5dd4df0ac74.png)
+
 
 📫 ¿Cómo contactarme?
 
 
 ✅ Linkedin: https://www.linkedin.com/in/c%C3%A9sar-cottua-003686236/
+
 
 ✅ Portafolio: 
 
