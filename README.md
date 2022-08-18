@@ -41,12 +41,12 @@ Technical skills:
 
 ✅ Linkedin: https://www.linkedin.com/in/c%C3%A9sar-cottua-003686236/
 
-
 ✅ Portafolio: 
 
 ✅ Correo: cesar.cottua@gmail.com
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sebastian-montilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastian-montilla" height="30" width="50" /></a>
-<a href="https://instagram.com/sebassamd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@sebassamd" height="30" width="50" /></a>
+<a href="https://www.linkedin.com/in/cesar-cottua/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastian-montilla" height="30" width="50" /></a>
+<a href="https://instagram.com/cottuacesar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@sebassamd" height="30" width="50" /></a>
 </p>
