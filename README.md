@@ -39,7 +39,7 @@ Technical skills:
 📫 ¿Cómo contactarme?
 
 
-✅ Linkedin: https://www.linkedin.com/in/c%C3%A9sar-cottua-003686236/
+✅ Linkedin: https://www.linkedin.com/in/cesar-cottua/
 
 ✅ Portafolio: 
 
