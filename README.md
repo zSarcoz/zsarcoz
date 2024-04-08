@@ -40,7 +40,11 @@ My skills include:
 </ul>
 
 <br/>
+
 My goal is to continue developing as a Frontend and occasionally in Backend and to continue expanding my knowledge in an environment that fosters innovation and continuous learning.
+
+<br/>
+<br/>
 <br/>
 Some of my Technical skills:
 
