@@ -28,14 +28,18 @@ I firmly believe in the importance of effective communication and teamwork for s
 
 My skills include:
 
-HTML5, CSS, JavaScript
-React, Redux, React Query, NextJS
-Node.js, Express
-TypeScript
-Bootstrap, Tailwind
-Material UI, Shadcn, Next UI
-PostgreSQL, Sequelize
-Git
+<ul>
+  <li>HTML5, CSS, JavaScript</li>
+  <li>React, Redux, React Query, NextJS</li>
+  <li>Node.js, Express</li>
+  <li>TypeScript</li>
+  <li>Bootstrap, Tailwind</li>
+  <li>Material UI, Shadcn, Next UI</li>
+  <li>PostgreSQL, Sequelize</li>
+  <li>Git</li>
+</ul>
+
+<br/>
 My goal is to continue developing as a Frontend and occasionally in Backend and to continue expanding my knowledge in an environment that fosters innovation and continuous learning.
 
 Technical skills:
